@@ -7,17 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://google.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Hello DevOps!
-        </a>
+        <h1>React DevOps App</h1>
       </header>
     </div>
   );
