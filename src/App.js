@@ -7,7 +7,11 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1>React DevOps App</h1>
+        <h1>React AND DynamoDB Game Collection</h1>
+        <form>
+          <label >game title:</label>
+          <input type="text" name="game title" />
+        </form>
       </header>
     </div>
   );
